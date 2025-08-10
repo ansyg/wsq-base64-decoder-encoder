@@ -73,24 +73,17 @@ Ideal for biometric systems, forensic applications, and identity verification wo
 ### Installation
 
    ```
-
       git clone https://github.com/ansyg/wsq-base64-decoder-encoder.git
       cd <your-repo>
       mvn clean install
-
 ```
 ## Running the Application
  ```
      mvn spring-boot:run
 ```
 ### The API will be available at:
-
 ```
   http://localhost:8080
-
-
-
-
 
 
 
