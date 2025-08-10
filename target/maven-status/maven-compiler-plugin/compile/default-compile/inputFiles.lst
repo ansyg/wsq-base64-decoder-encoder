@@ -1,0 +1,14 @@
+C:\Users\gerva\Documents\PROJECTS\PERSONAL\wsqlproject\src\main\java\com\wsq\wsqlproject\controllers\FingerprintController.java
+C:\Users\gerva\Documents\PROJECTS\PERSONAL\wsqlproject\src\main\java\com\wsq\wsqlproject\dto\FingerprintRequest.java
+C:\Users\gerva\Documents\PROJECTS\PERSONAL\wsqlproject\src\main\java\com\wsq\wsqlproject\dto\FingerprintResponse.java
+C:\Users\gerva\Documents\PROJECTS\PERSONAL\wsqlproject\src\main\java\com\wsq\wsqlproject\dto\ImageType.java
+C:\Users\gerva\Documents\PROJECTS\PERSONAL\wsqlproject\src\main\java\com\wsq\wsqlproject\repository\FingerprintRepository.java
+C:\Users\gerva\Documents\PROJECTS\PERSONAL\wsqlproject\src\main\java\com\wsq\wsqlproject\service\Bitmap.java
+C:\Users\gerva\Documents\PROJECTS\PERSONAL\wsqlproject\src\main\java\com\wsq\wsqlproject\service\BitmapWithMetadata.java
+C:\Users\gerva\Documents\PROJECTS\PERSONAL\wsqlproject\src\main\java\com\wsq\wsqlproject\service\FingerprintService.java
+C:\Users\gerva\Documents\PROJECTS\PERSONAL\wsqlproject\src\main\java\com\wsq\wsqlproject\service\NISTConstants.java
+C:\Users\gerva\Documents\PROJECTS\PERSONAL\wsqlproject\src\main\java\com\wsq\wsqlproject\service\WSQConstants.java
+C:\Users\gerva\Documents\PROJECTS\PERSONAL\wsqlproject\src\main\java\com\wsq\wsqlproject\service\WSQDecoder.java
+C:\Users\gerva\Documents\PROJECTS\PERSONAL\wsqlproject\src\main\java\com\wsq\wsqlproject\service\WSQEncoder.java
+C:\Users\gerva\Documents\PROJECTS\PERSONAL\wsqlproject\src\main\java\com\wsq\wsqlproject\service\WSQHelper.java
+C:\Users\gerva\Documents\PROJECTS\PERSONAL\wsqlproject\src\main\java\com\wsq\wsqlproject\WsqlprojectApplication.java
