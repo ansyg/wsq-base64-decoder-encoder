@@ -1,4 +1,4 @@
-# WSQ Fingerprint Converter API
+# Java WSQ Fingerprint Converter API
 
 A lightweight **Spring Boot REST API** for converting fingerprint images between **Base64** and **WSQ (Wavelet Scalar Quantization)** formats, WSQ encode based on NBIS and/or JNBIS.  
 Ideal for biometric systems, forensic applications, and identity verification workflows.
