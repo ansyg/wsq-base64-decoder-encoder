@@ -29,7 +29,7 @@ Ideal for biometric systems, forensic applications, and identity verification wo
 **Response Body**
 ```json
 {
-  "wsqString": "<WSQ encoded string>",
+  "wsqBase64": "<WSQ encoded string>",
   "originalBase64":"<Base64 encoded string>"
 }
 
