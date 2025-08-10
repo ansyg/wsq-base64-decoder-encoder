@@ -33,7 +33,9 @@ Ideal for biometric systems, forensic applications, and identity verification wo
 {
   "wsqString": "<WSQ encoded string>",
   "imageType":"BMP"
-}```
+}
+
+```
 
 
 
