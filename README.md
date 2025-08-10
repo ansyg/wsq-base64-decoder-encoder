@@ -25,6 +25,17 @@ Ideal for biometric systems, forensic applications, and identity verification wo
 }
 
 ```
+
+**Response Body**
+```json
+{
+  "wsqString": "<WSQ encoded string>",
+  "originalBase64":"<Base64 encoded string>"
+}
+
+
+```
+
 ### 2. Convert WSQ to base64
 **POST** `api/fingerprint/convert-wsq-to-base64`  
 
@@ -36,6 +47,48 @@ Ideal for biometric systems, forensic applications, and identity verification wo
 }
 
 ```
+
+**Response Body**
+```json
+{
+  "wsqString": "<WSQ encoded string>",
+  "originalBase64":"<Base64 encoded string>"
+}
+
+```
+
+## 🛠 Tech Stack
+  Java 17+
+  Spring Boot
+  Maven
+  Base64 Encoding/Decoding
+  WSQ Image Processing
+
+
+## 🚀 Getting Started
+### Prerequisites
+  Java 17 or higher
+  Maven
+
+### Installation
+
+   ```json
+      git clone https://github.com/ansyg/wsq-base64-decoder-encoder.git
+      cd <your-repo>
+      mvn clean install
+
+```
+## Running the Application
+ ```json
+     mvn spring-boot:run
+```
+### The API will be available at:
+
+```json
+  http://localhost:8080
+
+
+
 
 
 
